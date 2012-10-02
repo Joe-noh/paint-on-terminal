@@ -4,4 +4,4 @@ Display a picture on your terminal
 
 ##Usage
 
-`ruby paint-on-terminal picture_file`
+	ruby paint-on-terminal picture_file
